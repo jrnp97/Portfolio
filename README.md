@@ -2,6 +2,10 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+<p align="center">
+  <img src="unnamed.jpg" width="100%" height="200px">
+</p>
+
 # Jaime R. Negrete P. (CO)
 <sub>Software Developer</sub>
 
