@@ -1,5 +1,7 @@
 [![author](https://img.shields.io/badge/author-jrnp97-red.svg)](https://www.linkedin.com/in/jaime-r-negrete-parra-32567a167/) 
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![](https://img.shields.io/badge/python-2.x+-gray.svg)](https://www.python.org/downloads/release/python-272/) 
+[![](https://img.shields.io/badge/python-3.x+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![](https://img.shields.io/badge/django-X.X+-green.svg)](https://www.djangoproject.com/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
@@ -40,4 +42,8 @@ Twitt-Django - 2017 [![](https://img.shields.io/badge/source-project-green.svg)]
 
 **Python-Django, Bootstrap.**
   
+COVID19-Rest - 2020 [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/covid19-Rest)
+---
+> Django Web APP for make Covid19 Information available.
 
+**Python-Django, DjangoRestFramework, Celery**
