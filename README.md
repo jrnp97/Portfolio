@@ -36,7 +36,7 @@ Monitor de Asistencia Estudiantil (MAE - Student Assistance Monitor) - 2018 [![]
 
 **React, React-Native, Expo, JS.** 
 
-Twitt-Django - 2017 [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/Twitt-Django)
+MTwitt - 2017 [![](https://img.shields.io/badge/web-app-blue.svg)](https://mtwitt.herokuapp.com/) [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/MTwitt) 
 ---
 > Web App Twitter-Based using Django.
 
