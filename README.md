@@ -48,9 +48,20 @@ COVID19-Rest - 2020 [![](https://img.shields.io/badge/source-project-green.svg)]
 
 **Python-Django, DjangoRestFramework, Celery**
 
-Docker [![](https://img.shields.io/badge/source-project-blue.svg)](https://github.com/jrnp97/Docker)
+Docker [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/Docker)
 ---
 > Repository with Dockerfiles and docker-compose files created across years.
 
 **Docker, Bash, Docker-Compose**
 
+Ansible [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/Ansible)
+---
+> Repository with ansible projects for server automatic configuration.
+
+**Ansible, Bash**
+
+Stadistic [![](https://img.shields.io/badge/source-project-green.svg)](https://github.com/jrnp97/Statistic)
+---
+> Repository describing Machine Learning, Computer Vision, Simulation, Stadistic projects.
+
+**Python, OpenCV, Analysis**
